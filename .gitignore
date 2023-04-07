@@ -1,0 +1,9 @@
+*.tex
+*.swp
+*.swo
+__pycache__
+nadac
+ndc
+obdata
+decisions
+ptab.json
